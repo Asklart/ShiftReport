@@ -1,0 +1,14 @@
+
+# Pliki tymczasowe Pythona
+__pycache__/
+*.pyc
+
+# Wirtualne środowisko
+.venv/
+venv/
+
+# Lokalne ustawienia
+.env
+
+# Dane produkcyjne aplikacji
+data/*.json
